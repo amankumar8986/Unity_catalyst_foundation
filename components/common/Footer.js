@@ -23,7 +23,7 @@ export default function Footer() {
             <div className="text-sm text-color mb-10 f-f-l self-center">
               <span className="text-sm">
                 <a
-                  href="https://itsvg.in"
+                  href="#"
                   target="_blank"
                   rel="noreferrer noopener"
                   className=" sm:text-center sm:text-base transition-all ease-in-out"
