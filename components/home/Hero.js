@@ -12,7 +12,7 @@ export default function Hero() {
           <p className="mt-5 sm:mt-10 lg:w-10/12 text-gray-400 font-normal text-center text-sm sm:text-lg">
             Team UCF wants support of you guys in making up numerous souls lie
             down with full stomachs. There is nothing greater than love invested
-            in helping to feed the impoverished living in hunger.
+            in helping to feed the impoverished living in Unity Catalyst Foundation.
           </p>
         </div>
       </div>
